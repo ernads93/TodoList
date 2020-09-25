@@ -1,5 +1,5 @@
 # TodoList
- A simple Todo List created in vanilla JavaScript.
+ A simple Todo List coded in vanilla JavaScript.
  
  Screenshots:
  
